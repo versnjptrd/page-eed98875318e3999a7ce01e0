@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "93d6ef573b11a3f5f48a4fa9",
+  "owner": "versnjptrd",
+  "repo": "page-eed98875318e3999a7ce01e0",
+  "title": "极脉网络(XPulse)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eed98875318e3999a7ce01e0",
+      "a": "极脉网络(XPulse)",
+      "b": "",
+      "entity": "极脉网络(XPulse)",
+      "brand": "极脉网络(XPulse)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6355be6e0331e87e4698f261d03a30522a9ca7f46e93ccf5cc9ebe73456737e4",
+      "content": {
+        "keyword1": "极脉网络(XPulse)",
+        "keyword2": "",
+        "primary_entity": "极脉网络(XPulse)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "极脉网络 XPulse 提供三档月付套餐，按流量、设备数与节点规格分层。本页列出价格、权益与常见问题。",
+          "AI_DESCRIPTION": "极脉网络 XPulse 提供三档月付套餐，按流量、设备数与节点规格分层。本页列出价格、权益与常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--wine:#5e0a1e;--wine-deep:#3f0613;--wine-light:#7a1526;--ivory:#f4ecdd;--ivory-dark:#e7dcc4;--ink:#241208;--muted:#8b7a64;--gold:#c9a24b}\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:var(--ivory);color:var(--ink);font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.65;font-size:15px}\na{color:inherit;text-decoration:none}\n.wrap{max-width:1040px;margin:0 auto;padding:0 24px}\n\n/* hero 全宽色带分层堆叠 */\n.hero{position:relative}\n.hero-band{padding:54px 0;border-bottom:1px solid rgba(94,10,30,.15)}\n.band-1{background:var(--wine-deep);color:var(--ivory)}\n.band-2{background:var(--wine);color:var(--ivory)}\n.band-3{background:var(--ivory-dark);color:var(--ink)}\n.band-4{background:var(--ivory);color:var(--ink)}\n.hero h1{font-size:clamp(40px,8vw,72px);font-weight:900;letter-spacing:-1px;line-height:1.05}\n.hero .h1-sub{font-size:14px;letter-spacing:6px;text-transform:uppercase;color:var(--gold);margin-top:14px}\n.hero p{max-width:620px;margin-top:18px;font-size:16px}\n.hero .anchor-row{margin-top:22px;font-size:13px;letter-spacing:2px}\n.hero .anchor-row a{margin-right:22px;padding-bottom:3px;border-bottom:1px solid rgba(244,236,221,.3)}\n.band-2 .anchor-row a:hover,.band-3 .anchor-row a:hover{border-color:var(--gold);color:var(--gold)}\n.band-3 .anchor-row a{border-color:rgba(36,18,8,.2)}\n.hero-meta{display:flex;flex-wrap:wrap;gap:36px;margin-top:28px}\n.hero-meta .item{min-width:120px}\n.hero-meta .num{font-size:28px;font-weight:800;color:var(--wine)}\n.band-3 .hero-meta .num{color:var(--wine-deep)}\n.hero-meta .label{font-size:12px;letter-spacing:2px;color:var(--muted)}\n\n/* section common */\nsection{padding:72px 0;border-bottom:1px solid rgba(94,10,30,.1)}\n.h2{font-size:30px;font-weight:800;letter-spacing:-.5px;color:var(--wine-deep)}\n.h2-sub{font-size:13px;letter-spacing:3px;color:var(--muted);margin-top:8px}\n\n/* 虚线框票据风格卡片 */\n.ticket{border:1px dashed rgba(94,10,30,.35);background:var(--ivory);position:relative;padding:28px 28px 24px}\n.ticket::before,.ticket::after{content:\"\";position:absolute;width:18px;height:18px;border-radius:50%;background:var(--ivory);border:1px dashed rgba(94,10,30,.35)}\n.ticket::before{top:-10px;left:-10px}\n.ticket::after{bottom:-10px;right:-10px}\n.ticket .serial{position:absolute;top:14px;right:18px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;letter-spacing:2px;color:var(--muted)}\n\n/* plans 阶梯式递进排列 */\n.plans-stack{display:flex;flex-direction:column;gap:22px;margin-top:40px}\n.plan{border:1px dashed rgba(94,10,30,.4);background:var(--ivory);padding:30px 32px;position:relative}\n.plan-1{margin-left:0;width:100%}\n.plan-2{margin-left:5%;width:95%;border-color:rgba(94,10,30,.5);border-width:1.5px}\n.plan-3{margin-left:12%;width:88%;background:var(--wine-deep);color:var(--ivory);border-style:dashed;border-color:var(--gold)}\n.plan-head{display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:16px}\n.plan-name{font-size:22px;font-weight:800;letter-spacing:1px}\n.plan-3 .plan-name{color:var(--ivory)}\n.plan-price{font-size:26px;font-weight:900;color:var(--wine)}\n.plan-3 .plan-price{color:var(--gold)}\n.plan-price small{font-size:13px;font-weight:500;color:var(--muted);display:block;margin-top:4px}\n.plan-3 .plan-price small{color:rgba(244,236,221,.75)}\n.plan-feats{list-style:none;margin-top:18px;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px 24px}\n.plan-feats li{font-size:14px;padding-left:20px;position:relative}\n.plan-feats li::before{content:\"—\";position:absolute;left:0;color:var(--gold)}\n.plan-3 .plan-feats li::before{color:var(--gold)}\n.plan-featured-tag{position:absolute;top:-12px;right:24px;background:var(--gold);color:var(--wine-deep);font-size:11px;font-weight:800;letter-spacing:3px;padding:4px 12px}\n\n/* 票据风格说明区 */\n.features-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:22px;margin-top:40px}\n.ticket h3{font-size:17px;font-weight:800;color:var(--wine);margin-bottom:10px}\n.ticket p{font-size:14px;color:#3a2a1f}\n.ticket ul{list-style:none;margin-top:10px;font-size:13px}\n.ticket ul li{padding:4px 0;border-bottom:1px dashed rgba(94,10,30,.18)}\n.ticket ul li:last-child{border-bottom:none}\n\n/* faq 按主题分组 */\n.faq-group{margin-top:36px}\n.faq-group + .faq-group{margin-top:48px}\n.faq-group-title{font-size:18px;font-weight:800;color:var(--wine-deep);border-left:4px solid var(--gold);padding-left:12px;margin-bottom:20px}\n.faq-item{border:1px dashed rgba(94,10,30,.3);background:var(--ivory);padding:18px 22px;margin-bottom:14px}\n.faq-q{font-weight:700;color:var(--wine);font-size:15px}\n.faq-a{font-size:14px;color:#3a2a1f;margin-top:8px}\n\n/* footer */\nfooter{background:var(--wine-deep);color:var(--ivory);padding:48px 0}\nfooter .wrap{display:flex;flex-direction:column;gap:18px}\nfooter .brand{font-size:22px;font-weight:900;letter-spacing:1px}\nfooter .links{display:flex;flex-wrap:wrap;gap:24px;font-size:13px;letter-spacing:1px}\nfooter .links a{padding-bottom:3px;border-bottom:1px solid rgba(244,236,221,.25)}\nfooter .meta{font-size:12px;color:rgba(244,236,221,.6);line-height:1.8}\n\n@media (max-width:640px){\n  .plan-2,.plan-3{margin-left:0;width:100%}\n  .hero-meta{gap:18px}\n  .hero h1{font-size:42px}\n}\n</style><main>\n\n\n<header class=\"hero\">\n  <div class=\"hero-band band-1\">\n    <div class=\"wrap\">\n      <div class=\"h1-sub\">XPULSE / 极脉网络</div>\n      <h1>极脉网络(XPulse) · 极脉网络<br>XPulse</h1>\n    </div>\n  </div>\n  <div class=\"hero-band band-2\">\n    <div class=\"wrap\">\n      <p>三档月付套餐，按流量、设备数、节点规格分层。本页列出当前价格、权益、使用说明与常见问题，不定期更新。</p>\n      <div class=\"anchor-row\">\n        <a href=\"#plans\">套餐价格</a>\n        <a href=\"#how\">使用说明</a>\n        <a href=\"#faq\">常见问题</a>\n        <a href=\"#contact\">联系与订阅</a>\n      </div>\n    </div>\n  </div>\n  <div class=\"hero-band band-3\">\n    <div class=\"wrap\">\n      <div class=\"hero-meta\">\n        <div class=\"item\"><div class=\"num\">3</div><div class=\"label\">在售套餐</div></div>\n        <div class=\"item\"><div class=\"num\">¥15 起</div><div class=\"label\">月付门槛</div></div>\n        <div class=\"item\"><div class=\"num\">3 / 5 / 20</div><div class=\"label\">设备数分层</div></div>\n        <div class=\"item\"><div class=\"num\">年付</div><div class=\"label\">约 10 个月价格</div></div>\n      </div>\n    </div>\n  </div>\n  <div class=\"hero-band band-4\">\n    <div class=\"wrap\">\n      <div class=\"anchor-row\">\n        <a href=\"#plans\">查看套餐</a>\n        <a href=\"#how\">了解接入方式</a>\n      </div>\n    </div>\n  </div>\n</header>\n\n\n<section id=\"plans\">\n  <div class=\"wrap\">\n    <h2 class=\"h2\">套餐与价格</h2>\n    <div class=\"h2-sub\">三档套餐，逐级扩展流量、设备数与节点池</div>\n\n    <div class=\"plans-stack\">\n\n      <article class=\"plan plan-1\">\n        <span class=\"serial\">XP-01 · 0337</span>\n        <div class=\"plan-head\">\n          <div>\n            <div class=\"plan-name\">基础版</div>\n          </div>\n          <div class=\"plan-price\">¥15<small>按年付 ¥150/年</small></div>\n        </div>\n        <ul class=\"plan-feats\">\n          <li>每月 100GB 流量</li>\n          <li>3 台设备同时在线</li>\n          <li>基础流媒体线路</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </article>\n\n      <article class=\"plan plan-2\">\n        <span class=\"serial\">XP-02 · 0491</span>\n        <div class=\"plan-head\">\n          <div>\n            <div class=\"plan-name\">旗舰版</div>\n          </div>\n          <div class=\"plan-price\">¥35<small>按年付 ¥350/年</small></div>\n        </div>\n        <span class=\"plan-featured-tag\">推荐</span>\n        <ul class=\"plan-feats\">\n          <li>每月 300GB 流量</li>\n          <li>5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </article>\n\n      <article class=\"plan plan-3\">\n        <span class=\"serial\">XP-03 · 0508</span>\n        <div class=\"plan-head\">\n          <div>\n            <div class=\"plan-name\">团队版</div>\n          </div>\n          <div class=\"plan-price\">¥85<small>按年付 ¥850/年</small></div>\n        </div>\n        <ul class=\"plan-feats\">\n          <li>每月 1000GB 流量</li>\n          <li>20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </article>\n\n    </div>\n  </div>\n</section>\n\n\n<section id=\"how\">\n  <div class=\"wrap\">\n    <h2 class=\"h2\">使用说明</h2>\n    <div class=\"h2-sub\">从订阅到连通的四个步骤</div>\n\n    <div class=\"features-grid\">\n      <div class=\"ticket\">\n        <span class=\"serial\">01</span>\n        <h3>选择并订阅</h3>\n        <p>确认需要的套餐档位，提交订阅信息并完成月付或年付。</p>\n      </div>\n      <div class=\"ticket\">\n        <span class=\"serial\">02</span>\n        <h3>获取接入资料</h3>\n        <p>订阅完成后获得接入地址、端口、加密方式与节点列表等资料。</p>\n      </div>\n      <div class=\"ticket\">\n        <span class=\"serial\">03</span>\n        <h3>配置客户端</h3>\n        <p>按资料填写客户端参数，导入订阅地址，检查加密与端口一致。</p>\n      </div>\n      <div class=\"ticket\">\n        <span class=\"serial\">04</span>\n        <h3>连通与排障</h3>\n        <p>完成连通测试，若异常可按说明更换节点或提交工单。</p>\n      </div>\n    </div>\n  </div>\n</section>\n\n\n<section id=\"faq\">\n  <div class=\"wrap\">\n    <h2 class=\"h2\">常见问题</h2>\n    <div class=\"h2-sub\">按主题分组的问答</div>\n\n    <div class=\"faq-group\">\n      <h3 class=\"faq-group-title\">套餐与计费</h3>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">月付与年付价格如何换算？</div>\n        <p class=\"faq-a\">年付约为月付价格的 10 倍，例如旗舰版月付 ¥35，年付 ¥350。年付不含额外折扣，相当于赠送约两个月。</p>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">能否在套餐之间升级或降级？</div>\n        <p class=\"faq-a\">支持同方向升级，按剩余天数折算补差价。降级通常需等当前周期结束后生效。</p>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">流量是否支持结转？</div>\n        <p class=\"faq-a\">当月未用完的流量默认不结转至下月，团队版可向客户经理申请例外。</p>\n      </div>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3 class=\"faq-group-title\">设备与使用</h3>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">同时在线设备数如何计算？</div>\n        <p class=\"faq-a\">统计同一订阅下并发连接的设备数量。基础版 3 台、旗舰版 5 台、团队版 20 台。</p>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">超出流量额度后会怎样？</div>\n        <p class=\"faq-a\">当月流量耗尽后服务会暂停，等待下一周期重置，或选择升级到更高套餐。</p>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">支持哪些客户端？</div>\n        <p class=\"faq-a\">支持常见开源代理客户端，具体名称以接入资料附带的清单为准，本页不列品牌名。</p>\n      </div>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3 class=\"faq-group-title\">支持与排障</h3>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">工单响应时长？</div>\n        <p class=\"faq-a\">基础版与团队版按通用工单渠道处理；旗舰版享有 7x24 优先工单，团队版配专属客户经理。</p>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-q\">节点出现延迟变高怎么处理？</div>\n        <p class=\"faq-a\">先更换同一区域内的其他节点；若仍异常，提交工单并附测试时间与节点编号。</p>\n      </div>\n    </div>\n  </div>\n</section>\n\n<footer id=\"contact\">\n  <div class=\"wrap\">\n    <div class=\"brand\">极脉网络 XPulse</div>\n    <nav class=\"links\">\n      <a href=\"#plans\">套餐</a>\n      <a href=\"#how\">使用说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n    <div class=\"meta\">\n      本页仅展示当前在售套餐与使用说明，具体价格与权益以订阅页面实时信息为准。<br>\n      不提供下载链接与交易入口，需通过订阅渠道获取客户端与接入资料。\n    </div>\n  </div>\n</footer>\n\n</main>",
+          "hash": "cfde85ccaa42959ea8384fccb1e6808666f1883487b3d275691dc05da8ebc031",
+          "seo": {
+            "title": "极脉网络 XPulse — 流量与套餐一览",
+            "keywords": "极脉网络,XPulse,极脉网络套餐,极脉网络客户端",
+            "description": "极脉网络 XPulse 提供三档月付套餐，按流量、设备数与节点规格分层。本页列出价格、权益与常见问题。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "3047",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "8 酒红配象牙白",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bfaqv.cn",
+    "host": "p-f0c6adbe46.bfaqv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "035cf815468c7fcafa9cb36d2eb75f0ddb96d0daf97d16f2ae9ceea927d61887",
+    "sitemap.xml": "a92d48f185bd37c19086da71a438ba4b1303ad53020dda7ca950f89f99b9f092",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b59d17c5b9c3c7d74dbe45e6a74fa4e4d2f302de1dbc7a1387c60e1373bcd46f",
+    "robots.txt": "16119b11d58240e3850b0e0ab30ac402fdb096045713c34e94b4707e2e6e5eca",
+    "11da5b4b4eba1689b99dd2a8353713fb.txt": "bdd61c651fc507c3340def4ce4308704e475bb8b03a2ac08dfad8da4936e5074"
+  },
+  "revision": "364769da7d6638c16ea19fbf9ed3e519860b170ad2b9716b8fa23a7b6c0f7cde"
+}
